@@ -1,7 +1,7 @@
 # nodejs-masterclass-11
 Rocketseat's nodejs exercises: a computer stats, a logger and a "url" catcher
 
-https://www.youtube.com/watch?v=DiXbJL3iWVs
+Masterclass#11 Rocketseat - https://www.youtube.com/watch?v=DiXbJL3iWVs
 
 Nestes exercícios coloquei em prática alguns módulos nativos  como os, fs, path, url, events, http e comportamentos do Node no geral, como por exemplo: o Event Loop.
 
